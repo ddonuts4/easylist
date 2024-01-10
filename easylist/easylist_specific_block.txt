@@ -357,6 +357,7 @@
 ||nameproscdn.com/images/backers/
 ||nativetimes.com/images/banners/
 ||naturalnews.com/wp-content/themes/naturalnews-child/$script
+||navan.com/api/analytics
 ||navyrecognition.com/images/stories/customer/
 ||nemosa.co.za/images/mad_ad.png
 ||newkerala.com/banners/amazon
